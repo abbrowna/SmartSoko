@@ -30,7 +30,11 @@
                       "type": "textfield",
                       "name": "Item1",
                       "value": "Item...",
-                      "style": { "font": "HelveticaNeue-Bold" }
+                      "style": {
+                        "font": "HelveticaNeue-Bold",
+                        "background": "#e8e8e8",
+                        "size": "30"
+                      }
                     },
                     {
                       "type": "textfield",
