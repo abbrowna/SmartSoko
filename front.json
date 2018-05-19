@@ -28,11 +28,13 @@
                   "components": [
                     {
                       "type": "label",
-                      "text": "Items"
+                      "text": "Items",
+                      "style": { "font": "HelveticaNeue-Bold" }
                     },
                     {
                       "type": "label",
-                      "text": "quantity"
+                      "text": "quantity",
+                      "style": { "font": "HelveticaNeue-Bold" }
                     }
                   ]
                 }
