@@ -44,10 +44,11 @@
                 {
                   "type": "button",
                   "text": "submit",
-                  "url": "some url",
                   "style": {
                     "background": "#282828",
-                    "font": "HelveticaNeue-Bold"
+                    "font": "HelveticaNeue-Bold",
+                    "color": "#ffffff",
+                    "size": "12"
                   }
                 }
               ]
