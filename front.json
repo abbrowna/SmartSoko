@@ -1,0 +1,22 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Smart Soko",
+      "icon": "...",
+      "offline": "true",
+      "styles": {
+      },
+      "actions": {
+      },
+      "templates": {
+        ...
+      },
+      "data": {
+        ...
+      }
+    },
+    "body": {
+      ...
+    }
+  }
+}
