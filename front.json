@@ -33,7 +33,7 @@
                       "style": {
                         "font": "HelveticaNeue-Bold",
                         "background": "#e8e8e8",
-                        "size": "30"
+                        "size": "25"
                       }
                     },
                     {
@@ -41,7 +41,11 @@
                       "name": "quantity1",
                       "value": "0",
                       "keyboard": "number",
-                      "style": { "font": "HelveticaNeue-Bold" }
+                      "style": {
+                        "font": "HelveticaNeue-Bold",
+                        "background": "#e8e8e8",
+                        "size": "25"
+                      }
                     }
                   ]
                 },
