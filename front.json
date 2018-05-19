@@ -28,7 +28,7 @@
                   "components": [
                     {
                       "type": "textfield",
-                      "name": "Item",
+                      "name": "Item1",
                       "value": "Item...",
                       "style": { "font": "HelveticaNeue-Bold" }
                     },
@@ -40,6 +40,12 @@
                       "style": { "font": "HelveticaNeue-Bold" }
                     }
                   ]
+                },
+                {
+                  "type": "button",
+                  "text": "submit",
+                  "url": "some url",
+                  "style": { "background": "#ffffff" }
                 }
               ]
             }
