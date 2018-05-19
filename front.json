@@ -28,7 +28,7 @@
                   "type": "horizontal",
                   "components": [
                     {
-                      "type": "textfield",
+                      "type": "label",
                       "text": "Items",
                       "style": { "font": "HelveticaNeue-Bold" }
                     },
