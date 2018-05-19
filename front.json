@@ -27,11 +27,11 @@
                   "type": "horizontal",
                   "components": [
                     {
-                      "type": "lable",
+                      "type": "label",
                       "text": "Items"
                     },
                     {
-                      "type": "lable",
+                      "type": "label",
                       "text": "quantity"
                     }
                   ]
@@ -40,8 +40,7 @@
             }
           ]
         }
-      ]
-    
+      ]    
     }
   }
 }
