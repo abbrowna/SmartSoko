@@ -29,7 +29,7 @@
                     {
                       "type": "textfield",
                       "name": "Item1",
-                      "value": "Item...",
+                      "placeholder": "Item...",
                       "style": {
                         "font": "HelveticaNeue-Bold",
                         "background": "#e8e8e8",
