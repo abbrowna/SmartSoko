@@ -39,10 +39,7 @@
                       "name": "quantity1",
                       "value": "0",
                       "keyboard": "number",
-                      "style": [
-                        { "font": "HelveticaNeue-Bold" },
-                        {}
-                      ]
+                      "style": { "font": "HelveticaNeue-Bold" }
                     }
                   ]
                 }
