@@ -14,7 +14,8 @@
       }
     },
     "body": {
-      "quantity1": "null",
+      "quantity1": 0,
+      "Item1": null,
       "header": {
         "title": "Smart Soko"
       },
@@ -28,16 +29,20 @@
                   "type": "horizontal",
                   "components": [
                     {
-                      "type": "label",
-                      "text": "Items",
+                      "type": "textfield",
+                      "name": "Item",
+                      "value": "Item...",
                       "style": { "font": "HelveticaNeue-Bold" }
                     },
                     {
                       "type": "textfield",
                       "name": "quantity1",
-                      "value": "Qty",
+                      "value": "0",
                       "keyboard": "number",
-                      "style": { "font": "HelveticaNeue-Bold" }
+                      "style": [
+                        { "font": "HelveticaNeue-Bold" },
+                        {}
+                      ]
                     }
                   ]
                 }
